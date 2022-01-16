@@ -2,6 +2,11 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+background {
+  height: 200px;
+  background-color: red;
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -27,9 +32,10 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+}    
 h3 {
-    font-size: 3em;
-    font-family:'Luxurious Roman';
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 ul.posts { 
     margin: 20px auto 40px; 
@@ -39,12 +45,6 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
 ul.posts li {
     list-style: none;
 }
