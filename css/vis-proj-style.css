@@ -17,12 +17,12 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    font-family:'Helvetica';
+    font-family:'Luxurious Roman', cursive, 'Helvetica';
 }
 a {
     text-decoration: none;
-    color: #F2F1F1;
-    font-family:'Helvetica';
+    color: #E7E7E7;
+    font-family:'Luxurious Roman', cursive, 'Helvetica';
 }
 a:hover {
     text-decoration: underline;
@@ -32,7 +32,7 @@ h1 {
     font-family:'Luxurious Roman', cursive, 'Helvetica';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #FFFFFF;
     font-family:'Helvetica';
