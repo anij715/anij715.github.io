@@ -17,11 +17,12 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-family:'Helvetica';
 }
 a {
     text-decoration: none;
     color: #F2F1F1;
-    font-family:'Luxurious Roman', cursive, 'Helvetica';
+    font-family:'Helvetica';
 }
 a:hover {
     text-decoration: underline;
@@ -51,4 +52,5 @@ footer {
 }
 ul.posts li {
     list-style: none;
+    font-family:'Helvetica';
 }
