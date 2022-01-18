@@ -2,7 +2,8 @@ html {
     height: 100%;
 }
 body {
-    background-image: linear-gradient(to bottom right, #9FE2BF, #40E0D0);
+    background-image: linear-gradient(to bottom right, #DF0683, #24023D);
+    color: #FFFFFF;
     margin: 60px auto;
     width: 70%;
 }
