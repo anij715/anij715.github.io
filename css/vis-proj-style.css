@@ -22,7 +22,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #EAECEE ;
-    font-family:'Luxurious Roman', cursive, 'Helvetica';
+    font-family:'Helvetica';
 }
 a:hover {
     text-decoration: underline;
