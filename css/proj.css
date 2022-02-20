@@ -10,7 +10,7 @@ body {
 }
 nav ul, footer ul {
     font-family:'Luxurious Roman', cursive, 'Helvetica';
-    padding: 0px;
+    padding: 5px;
     list-style: none;
     font-weight: bold;
 }
