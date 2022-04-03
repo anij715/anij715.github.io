@@ -22,7 +22,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #EAECEE ;
-    font-family:'Helvetica';
+    font-family:'Luxurious Roman', cursive, 'Helvetica';
 }
 a:hover {
     text-decoration: underline;
@@ -52,5 +52,5 @@ footer {
 }
 ul.posts li {
     list-style: none;
-    font-family:'Helvetica';
+    font-family:'Luxurious Roman', cursive, 'Helvetica';
 }
