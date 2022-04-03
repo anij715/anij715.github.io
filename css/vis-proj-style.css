@@ -21,7 +21,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #EAECEE ;
+    color: #BDC3C7 ;
     font-family:'Luxurious Roman', cursive, 'Helvetica';
 }
 a:hover {
@@ -34,7 +34,7 @@ h1 {
 p {
     font-size: 1.3em;
     line-height: 1.4em;
-    color: #FFFFFF;
+    color: #000;
     font-family:'Helvetica';
 }    
 h3 {
@@ -46,7 +46,7 @@ ul.posts {
     font-size: 1.5em;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #BDC3C7;
     font-size: .8em;
     font-family:'Luxurious Roman', cursive, 'Helvetica';
 }
