@@ -1,4 +1,4 @@
-# Personal Portfolio Website for Rizul Sharma
+# Data Vis portfolio website
 
 This repository contains the source code for Rizul Sharma's Data Vis portfolio website. This static site is hosted on GitHub Pages and serves as a showcase for academic projects, particularly those from the "Visual Interfaces for Data" course.
 
